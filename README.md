@@ -1,5 +1,6 @@
 # smart-civic-system
 WEBSITE FOR SMART CIVIC SYSTEM
+<br>
 Project Overview
 A full-stack web application designed to empower citizens to report infrastructure issues like potholes and garbage directly to municipal authorities (Nagar Nigam). The platform features an interactive map for precise location tagging and a dedicated admin panel for real-time status management.
 
